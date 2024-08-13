@@ -1,0 +1,2 @@
+export const logo = "https://ik.imagekit.io/HoneyJoe/Rainbow%20theme/rainbow%20theme/logo.png?updatedAt=1723538361812"
+export const rainbow_logo ="https://ik.imagekit.io/HoneyJoe/Rainbow%20theme/rainbow%20theme/rainbow-theme-thumb.jpg?updatedAt=1723565416047"

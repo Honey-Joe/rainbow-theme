@@ -1,0 +1,27 @@
+@font-face {
+  font-family: euclid;
+  src: url(./assets/fonts/euclid_regular.ttf);
+}
+@font-face {
+  font-family: euclid_bold;
+  src: url(./assets/fonts/euclid_bold.ttf);
+}
+@font-face {
+  font-family:euclid_medium;
+  src: url(./assets/fonts/euclid_medium.ttf);
+}
+@font-face {
+  font-family: euclid_light;
+  src: url(./assets/fonts/euclid_light.ttf);
+}
+@font-face {
+  font-family: euclid_semi_bold;
+  src: url(./assets/fonts/euclid_semi_bold.ttf);
+}
+
+#purchase{
+  background: linear-gradient(90deg, #CFA2E8, #637FEA);
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
