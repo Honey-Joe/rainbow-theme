@@ -5,7 +5,7 @@ import { rainbow_logo } from "../../assets/image"
 const Card_intro = () => {
   return (
     <>
-     <div className="2xl:container py-10">
+     <div className="2xl:container py-11">
         <div className="w-[90%] xl:w-[55%] grid grid-cols-1 mx-auto items-center justify-center">
             <div className="flex flex-col justify-center px-5 shadow-2xl py-3 rounded-xl">
                 <div className="flex justify-start py-5">
