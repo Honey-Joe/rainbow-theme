@@ -10,6 +10,7 @@ const Body = () => {
     <>
         <Card_intro></Card_intro>
         <Course></Course>
+        <StyleTwo></StyleTwo>
     </>
   )
 }
