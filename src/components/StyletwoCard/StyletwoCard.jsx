@@ -4,7 +4,7 @@ const StyletwoCard = (props) => {
   return (
     <>
       <div>
-        <div className=" ">
+        <div className="2xl:container">
           <div className=" shadow-lg p-3 pt-3 rounded-lg hover:-translate-y-2 transition">
             <div className="relative">
               <img
