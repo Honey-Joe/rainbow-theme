@@ -22,6 +22,11 @@
 #purchase{
   background: linear-gradient(90deg, #CFA2E8, #637FEA);
 }
+#corse{
+  background-image: url(./assets/images/tree-shape.svg);
+  background-size: cover;
+  background-repeat: no-repeat
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
