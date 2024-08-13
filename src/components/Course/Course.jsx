@@ -8,8 +8,6 @@ const Course = () => {
      
   return (
     <>
-
-
         <div className="2xl:container" id="corse">
             <div className="w-[90%] xl:w-[55%]  mx-auto grid grid-cols-1 py-11">
                 <div className="flex flex-col gap-3">
@@ -17,7 +15,6 @@ const Course = () => {
                         <div className="shadow-2xl py-3 px-5 rounded-lg flex justify-center items-center">
                             <p className="font-[euclid] font-medium text-base">🏆 The leader in Online Learning</p>
                         </div>
-                        
                     </div>
                     <div className="flex justify-center items-center">
                         <span className="font-[euclid] font-bold text-[60px] text-[#192335]">Popular Courses <span className=""><LinearGradient gradient={["to left","#b966e7 ,#2f57ef"]}><Typewriter
@@ -35,7 +32,6 @@ const Course = () => {
                         </div>
                     </div>
                 </div>
-
             </div>
         </div> 
     </>
