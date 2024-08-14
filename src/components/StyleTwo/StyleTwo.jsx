@@ -1,5 +1,5 @@
 import StyletwoCard from "../StyletwoCard/StyletwoCard"
-import StyleTwoCardApi from "../../StyleTwoCardApi/StyleTwoCardApi"
+import StyleTwoCardApi from "../../API/StyleTwoCardApi/StyleTwoCardApi"
 
 const StyleTwo = () => {
   return (

@@ -3,7 +3,4 @@ export const rainbow_logo ="https://ik.imagekit.io/HoneyJoe/Rainbow%20theme/rain
 
 // style two img 
 export const img1 = "https://ik.imagekit.io/jjyo3gsee/Rainbow%20Themes/rainbow%20img/im1.webp?updatedAt=1723568534282";
-export const img2 = "";
-export const img3 = "";
-export const img4 = "";
-export const img = "";
+export const card_img= "https://ik.imagekit.io/HoneyJoe/Rainbow%20theme/rainbow%20theme/basics-of-histudy-theme.png?updatedAt=1723578078798"

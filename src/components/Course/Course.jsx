@@ -2,6 +2,7 @@ import { MoveRight } from "lucide-react"
 import React from "react"
 import {useTypewriter ,Cursor, Typewriter} from "react-simple-typewriter"
 import { LinearGradient } from "react-text-gradients"
+import Coursecard from "../Coursecard/Coursecard"
 
 
 const Course = () => {
@@ -9,7 +10,7 @@ const Course = () => {
   return (
     <>
         <div className="2xl:container" id="corse">
-            <div className="w-[90%] xl:w-[55%]  mx-auto grid grid-cols-1 py-11">
+            <div className="w-[90%] xl:w-[65%]  mx-auto grid grid-cols-1 py-11">
                 <div className="flex flex-col gap-3">
                     <div className="flex justify-center items-center">
                         <div className="shadow-2xl py-3 px-5 rounded-lg flex justify-center items-center">
@@ -34,6 +35,7 @@ const Course = () => {
                         </div>
                     </div>
                 </div>
+                
             </div>
         </div> 
     </>
