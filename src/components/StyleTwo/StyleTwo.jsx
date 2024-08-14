@@ -5,7 +5,7 @@ const StyleTwo = () => {
   return (
     <>
         <div className="2xl:container">
-            <div className=" flex justify-center items-center w-[90%] mx-auto h-screen my-[400px] xl:my-0">
+            <div className=" flex justify-center items-center w-[90%] mx-auto h-screen my-[400px] md:my-[130px] xl:my-0 ">
                 <div>
                     <div className=" py-20">
                         <h1 className=" text-center text-[24px] text-[#121315] font-[euclid] font-bold">Style Two</h1>

@@ -26,7 +26,9 @@ const Course = () => {
                         <p className="text-center font-[euclid] text-[20px] text-[#6b7385]">Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!</p>
                     </div>
                     <div className="flex items-center justify-center gap-5">
-                        <div><button className="flex px-4 py-4 rounded-lg bg-gradient-to-r from-purple-500 to-pink-500 gap-2 font-[euclid] font-semibold text-base text-white">Log in to start <MoveRight /> </button></div>
+                        <div>
+                            <button className="flex px-4 py-4 rounded-lg bg-gradient-to-r from-purple-500 to-pink-500 gap-2 font-[euclid] font-semibold text-base text-white">Log in to start <MoveRight /> </button>
+                            </div>
                         <div>
                             <button className="flex px-4 py-4 rounded-lg bg-gradient-to-r from-pink-500 to-purple-500 gap-2 font-[euclid] font-semibold text-base text-white">Buy the course <MoveRight /></button>
                         </div>

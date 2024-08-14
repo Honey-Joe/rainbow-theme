@@ -18,6 +18,10 @@
   font-family: euclid_semi_bold;
   src: url(./assets/fonts/euclid_semi_bold.ttf);
 }
+@font-face {
+  font-family: Freeroad ;
+  src: url(./assets/fonts/Freeroad\Bold.ttf);
+}
 
 #purchase{
   background: linear-gradient(90deg, #CFA2E8, #637FEA);
