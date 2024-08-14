@@ -27,9 +27,8 @@
   background: linear-gradient(90deg, #CFA2E8, #637FEA);
 }
 #corse{
-  background-image: url(./assets/images/tree-shape.svg);
   background-size: cover;
-  background-repeat: no-repeat
+  background-repeat: no-repeat;
 }
 @tailwind base;
 @tailwind components;
@@ -48,6 +47,23 @@
 
 #an:hover::after{
   width: 30%;
+  transition-duration: 0.2s;
+  transition-timing-function: linear;
+}
+
+#a::after{
+  position: absolute;
+  content: '';
+  width: 0%;
+  height: 1px;
+  background-color: #2f57ef;
+  left: 0;
+  bottom: 0;
+  border-radius: 50px;
+}
+
+#a:hover::after{
+  width: 100%;
   transition-duration: 0.2s;
   transition-timing-function: linear;
 }
