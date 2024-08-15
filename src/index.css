@@ -22,6 +22,18 @@
   font-family: Freeroad ;
   src: url(./assets/fonts/Freeroad\Bold.ttf);
 }
+@font-face {
+  font-family: poppions-r;
+  src: url(./assets/fonts/Poppins-Regular.ttf);
+}
+@font-face {
+  font-family: poppions-m;
+  src: url(./assets/fonts/Poppins-Medium.ttf);
+}
+@font-face {
+  font-family: poppions-b;
+  src: url(./assets/fonts/Poppins-Bold.ttf);
+}
 
 #purchase{
   background: linear-gradient(90deg, #CFA2E8, #637FEA);
@@ -66,4 +78,9 @@
   width: 100%;
   transition-duration: 0.2s;
   transition-timing-function: linear;
+}
+
+#bg{
+  background-image: url("https://ik.imagekit.io/jjyo3gsee/Rainbow%20Themes/rainbow%20img/Background%20(1).png?updatedAt=1723694542963");
+  background-size: cover;
 }

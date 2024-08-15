@@ -5,6 +5,7 @@ import StyleTwo from '../StyleTwo/StyleTwo'
 import Course from '../Course/Course'
 import NewsLetter from '../NewsLetter/NewsLetter'
 import Coursecard from '../Coursecard/Coursecard'
+import Footer from '../Footer/Footer'
 
 
 const Body = () => {
@@ -15,6 +16,7 @@ const Body = () => {
         <Coursecard></Coursecard>
         <StyleTwo></StyleTwo>
         <NewsLetter/> 
+        {/* <Footer/> */}
     </>             
   )
 }
